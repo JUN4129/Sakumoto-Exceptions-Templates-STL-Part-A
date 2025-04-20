@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sakumoto Exceptions Templates STL Part A", "Sakumoto Exceptions Templates STL Part A\Sakumoto Exceptions Templates STL Part A.vcxproj", "{CF678383-DC13-4BAD-AD38-470E11379B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Debug|x64.ActiveCfg = Debug|x64
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Debug|x64.Build.0 = Debug|x64
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Debug|x86.Build.0 = Debug|Win32
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Release|x64.ActiveCfg = Release|x64
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Release|x64.Build.0 = Release|x64
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Release|x86.ActiveCfg = Release|Win32
+		{CF678383-DC13-4BAD-AD38-470E11379B4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAA4644-1DC2-46EF-803E-87FF6E891764}
+	EndGlobalSection
+EndGlobal
